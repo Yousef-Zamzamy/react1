@@ -1,0 +1,17 @@
+.formControl:focus {
+  box-shadow: none !important;
+}
+
+.labelStyle1 {
+  position: relative;
+  top: 0;
+  color: #1abc9c;
+  transition: all 0.5s ease;
+}
+
+.labelStyle2 {
+  position: relative;
+  top: 30px;
+  color: #1abc9c;
+  transition: all 0.5s ease;
+}
